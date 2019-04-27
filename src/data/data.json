@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "emails",
+        "timestamp": "2:30 pm",
+        "createdBy": "chirag"
+    },
+    {
+        "id": 2,
+        "title": "push notifications",
+        "timestamp": "2:30 pm",
+        "createdBy": "chirag"
+    },
+    {
+        "id": 3,
+        "title": "inapp messages",
+        "timestamp": "2:30 pm",
+        "createdBy": "chirag"
+    },
+    {
+        "id": 4,
+        "title": "sms",
+        "timestamp": "2:30 pm",
+        "createdBy": "chirag"
+    },
+    {
+        "id": 5,
+        "title": "push",
+        "timestamp": "2:30 pm",
+        "createdBy": "chirag"
+    }
+]
