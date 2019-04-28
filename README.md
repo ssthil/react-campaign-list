@@ -66,3 +66,20 @@ npm install --save-dev @babel/core @babel/preset-env @babel/preset-react babel-l
  - @babel/preset-env is the default Babel preset used to transform ES6+ into valid ES5 code. Optionally configures browser polyfills automatically.
  - @babel/preset-react is used for transforming JSX and React class syntax into valid JavaScript code.
  - babel-loader is a webpack loader that hooks Babel into webpack. We will run Babel from webpack with this package.
+
+ ### Bootstrap installation
+ ```
+ npm install react-bootstrap bootstrap
+ ```
+
+ #### Include bootstrap
+ ```
+ import "bootstrap/dist/css/bootstrap.css";
+ ```
+
+## Adding CSS LESS processor
+In order to add the LESS processor into our React application, we will require both less and loader packages from webpack:
+
+ ```
+ npm install --save-dev less less-loader css-loader style-loader
+ ```
