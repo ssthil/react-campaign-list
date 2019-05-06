@@ -3,7 +3,29 @@
         "id": 1,
         "title": "emails",
         "timestamp": "2:30 pm",
-        "createdBy": "chirag"
+        "createdBy": "chirag",
+        "history": [
+            {
+                "action": "comment",
+                "createdBy": "chirag",
+                "message":"Good luck"
+            },
+            {
+                "action": "renamed",
+                "createdBy": "chirag",
+                "message":"Campaign 2"
+            },
+            {
+                "action": "comment",
+                "createdBy": "chirag",
+                "message":"Ho payega"
+            },
+            {
+                "action": "paused",
+                "createdBy": "chirag",
+                "message":""
+            }
+        ]
     },
     {
         "id": 2,
